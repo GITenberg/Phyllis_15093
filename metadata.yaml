@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1284
 description: Images of the original pages are available through the Kentuckiana Digital
   Library Electronic Text Collection. See http://kdl.kyvl.org/cgi/t/text/text-idx?;page=simpleext
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15093#Phyllis
 gutenberg_issued: '2005-02-17'
 gutenberg_type: Text
 identifiers:
